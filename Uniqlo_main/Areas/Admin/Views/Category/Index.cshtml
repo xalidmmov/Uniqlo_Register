@@ -1,0 +1,35 @@
+﻿@using Uniqlo_main.Models
+@model List<Category>
+@{
+    ViewData["Title"] = "Index";
+}
+<table class="table">
+    <thead class="thead-dark">
+    <a style="width:100px" class="btn btn-primary" asp-action="Create" asp-controller="Category">Create</a>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col" colspan="2">Action</th>
+
+    
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @foreach (var item in Model)
+            {
+               <td>@item.Id</td>
+               <td>@item.Name</td>
+               <td><a class="btn btn-success" asp-controller="Category" asp-action="Update" asp-route-id="@item.Id">Update</a></td>
+                <td><a class="btn btn-danger" asp-controller="Category" asp-action="Delete" asp-route-id="@item.Id">Delete</a></td>
+                
+            }
+           
+        </tr>
+      
+    </tbody>
+</table>
+
+
+ 
+

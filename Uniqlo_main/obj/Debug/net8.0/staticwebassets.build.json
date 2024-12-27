@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "putjUjO0PO1JL/TVAkq+autT//4uDs+XdztVMZGlFDo=",
+  "Hash": "L1EetrxdnAQs3ew5VaBUjvX3NMwRZrtGmGsCMkf4cDU=",
   "Source": "Uniqlo_main",
   "BasePath": "_content/Uniqlo_main",
   "Mode": "Default",
@@ -39575,12 +39575,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\imgs\\sliders\\1hdexorn.ms4.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\imgs\\products\\fdaxabcv.mg0.jpeg",
       "SourceId": "Uniqlo_main",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\",
       "BasePath": "_content/Uniqlo_main",
-      "RelativePath": "imgs/sliders/1hdexorn.ms4.png",
+      "RelativePath": "imgs/products/fdaxabcv.mg0.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -39591,7 +39591,64 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imgs\\sliders\\1hdexorn.ms4.png"
+      "OriginalItemSpec": "wwwroot\\imgs\\products\\fdaxabcv.mg0.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\imgs\\products\\gfzlit2v.thi.png",
+      "SourceId": "Uniqlo_main",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\",
+      "BasePath": "_content/Uniqlo_main",
+      "RelativePath": "imgs/products/gfzlit2v.thi.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\products\\gfzlit2v.thi.png"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\imgs\\sliders\\gbgufghg.ud1.jpg",
+      "SourceId": "Uniqlo_main",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\",
+      "BasePath": "_content/Uniqlo_main",
+      "RelativePath": "imgs/sliders/gbgufghg.ud1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\sliders\\gbgufghg.ud1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\imgs\\sliders\\gr3wcj5d.4ps.jpeg",
+      "SourceId": "Uniqlo_main",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\",
+      "BasePath": "_content/Uniqlo_main",
+      "RelativePath": "imgs/sliders/gr3wcj5d.4ps.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\sliders\\gr3wcj5d.4ps.jpeg"
     }
   ]
 }

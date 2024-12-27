@@ -8329,8 +8329,20 @@
       "PackagePath": "staticwebassets\\assets\\style.css"
     },
     {
-      "Id": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\imgs\\sliders\\1hdexorn.ms4.png",
-      "PackagePath": "staticwebassets\\imgs\\sliders\\1hdexorn.ms4.png"
+      "Id": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\imgs\\products\\fdaxabcv.mg0.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\products\\fdaxabcv.mg0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\imgs\\products\\gfzlit2v.thi.png",
+      "PackagePath": "staticwebassets\\imgs\\products\\gfzlit2v.thi.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\imgs\\sliders\\gbgufghg.ud1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\sliders\\gbgufghg.ud1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\wwwroot\\imgs\\sliders\\gr3wcj5d.4ps.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\sliders\\gr3wcj5d.4ps.jpeg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Uniqlo_main.Microsoft.AspNetCore.StaticWebAssets.props",

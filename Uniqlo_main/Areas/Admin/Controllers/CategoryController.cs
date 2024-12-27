@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Uniqlo_main.DataAccess;
 using Uniqlo_main.Models;
@@ -6,9 +7,11 @@ using Uniqlo_main.ViewModels.Category;
 
 namespace Uniqlo_main.Areas.Admin.Controllers
 {
-    [Area("Admin")]
+    
     public class CategoryController(UniqloDbContext _context) : Controller
     {
+        [Area("Admin")]
+        [Authorize]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Categories.ToListAsync());
@@ -110,7 +113,7 @@ namespace Uniqlo_main.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(Index));
         }
-
+        
 
 
     }

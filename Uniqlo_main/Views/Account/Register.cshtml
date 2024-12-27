@@ -1,8 +1,4 @@
 ﻿
-@{
-    ViewData["Title"] = "Register";
-    Layout = null;
-}
 
 @using Uniqlo_main.ViewModels.Auths
 @model UserCreateVM
@@ -53,7 +49,7 @@
                             <div class="text-center">
                                 <h1 class="h4 text-gray-900 mb-4">Create an Account!</h1>
                             </div>
-                            <form method="post"  class="user">
+                            <form method="post" asp-action="Register"  class="user">
                                 <div class="form-group ">
                                         <label asp-for="FullName"></label>
                                         <input asp-for="FullName" class="form-control form-control-user" 
@@ -111,7 +107,7 @@
                                 <a class="small" href="forgot-password.html">Forgot Password?</a>
                             </div>
                             <div class="text-center">
-                                <a class="small" href="login.html">Already have an account? Login!</a>
+                                <a class="small" asp-action="Login">Already have an account? Login!</a>
                             </div>
                         </div>
                     </div>
